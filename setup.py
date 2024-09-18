@@ -31,7 +31,7 @@ setup(
         "ffmpeg-python==0.2.0",
         "future==0.18.2; python_version >= '2.6' and python_version not in '3.0, 3.1, 3.2, 3.3'",
         "idna==3.3; python_version >= '3.5'",
-        "lxml==4.9.1",
+        "lxml==4.9.3",
         "pefile==2022.5.30",
         "pyqt5==5.15.7",
         "pyqt5-qt5==5.15.2",
